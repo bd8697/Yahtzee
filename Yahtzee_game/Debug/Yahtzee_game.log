@@ -1,0 +1,80 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1875,5): warning : The referenced project '..\Logging\Logging.vcxproj' does not exist.
+  Console.cpp
+  Dice.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(61,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(66,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(66,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(67,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(72,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(72,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Die.cpp
+  Game.cpp
+  Main.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(73,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(32,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(32,28): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(32,28): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(32,28): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(32,28): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,41): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,41): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,41): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,41): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,28): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,28): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,28): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(33,28): warning C4244:         ]
+  MySprite.cpp
+  Player.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(34,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(34,31): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(34,31): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(34,31): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Main.cpp(34,31): warning C4244:         ]
+  ScoreTable.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Player.cpp(233,26): warning C4018: '<': signed/unsigned mismatch
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(82,27): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(82,24): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,107): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,107): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,107): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,107): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,107): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,76): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,76): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,76): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(83,76): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(88,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(88,25): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,114): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,114): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,114): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,114): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,114): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,83): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,83): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,83): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(89,83): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,70): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,70): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,70): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,70): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,47): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,47): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,47): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(93,47): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(94,27): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(94,24): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(96,64): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(96,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(98,88): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  Generating Code...
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\ScoreTable.cpp(98,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

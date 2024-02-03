@@ -1,0 +1,15 @@
+﻿  WinnersHierarchy.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251: 'WinnersHierarchy::winnersList': class 'std::map<int,std::string,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>' needs to have dll-interface to be used by clients of class 'WinnersHierarchy'
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251:             _Kty=int,
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251:             _Ty=std::string
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26,41): warning C4251:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message : see declaration of 'std::map<int,std::string,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>'
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message :         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message :         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message :             _Kty=int,
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message :             _Ty=std::string
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Winners\Winners\WinnersHierarchy.h(26): message :         ]
+     Creating library D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\x64\Debug\Winners.lib and object D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\x64\Debug\Winners.exp
+  Winners.vcxproj -> D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\x64\Debug\Winners.dll

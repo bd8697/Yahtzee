@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  DieTests.cpp
+  Yahtzee_UnitTests.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'sfml-audio-d.lib'

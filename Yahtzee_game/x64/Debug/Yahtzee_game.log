@@ -1,0 +1,386 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(1875,5): warning : The referenced project '..\Logging\Logging.vcxproj' does not exist.
+  Dice.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(57,126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(125,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(132,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(136,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Die.cpp
+  Game.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(136,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+  GameOver.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+  Main.cpp
+  MainMenu.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.cpp(21,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(45,111): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(50,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(50,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,52): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,52): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,52): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(162,52): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,93): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,93): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,93): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,93): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,93): warning C4244:         ]
+  PlayState.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,52): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,52): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,52): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.cpp(168,52): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(30,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(31,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\MainMenu.h(32,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(37,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(38,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.h(39,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(26,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,78): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(27,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         and
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:             T=float
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\GameOver.h(28,53): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(17,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(40,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,51): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,51): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,51): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(46,51): warning C4244:         ]
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(85,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(85,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(91,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(96,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(178,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(185,37): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(186,18): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(188,56): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(226,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(232,129): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(232,129): warning C4244:         with
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(232,129): warning C4244:         [
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(232,129): warning C4244:             T=unsigned int
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(232,129): warning C4244:         ]
+  Player.cpp
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\PlayState.cpp(256,176): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Player.cpp(362,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+  StateMachine.cpp
+  Generating Code...
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Player.cpp(393,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Yahtzee_game.vcxproj -> D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\x64\Debug\Yahtzee_game.exe

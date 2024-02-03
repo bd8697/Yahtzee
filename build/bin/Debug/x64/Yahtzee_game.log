@@ -1,0 +1,10 @@
+﻿  Console.cpp
+  Dice.cpp
+  Die.cpp
+  Game.cpp
+  Main.cpp
+  Player.cpp
+  ScoreTable.cpp
+  Generating Code...
+D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\Yahtzee_game\Dice.cpp(28,125): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Yahtzee_game.vcxproj -> D:\Work\Anu II\MODERN C++\Yathzee_Game 2\Yahtzee_game\build\bin\Debug\x64\Yahtzee_game.exe
